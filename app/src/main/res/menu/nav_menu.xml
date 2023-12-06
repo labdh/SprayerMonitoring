@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+     <group >
+
+         <item
+             android:id="@+id/nav_home"
+             android:icon="@drawable/ic_baseline_home_24"
+             android:title="Home"/>
+         <item android:id="@+id/nav_language"
+             android:icon="@drawable/ic_baseline_language_24"
+             android:title="Language"/>
+         <item android:id="@+id/nav_history"
+             android:icon="@drawable/ic_baseline_history_24"
+             android:title="History"/>
+
+     </group>
+
+    <item android:title="">
+        <menu>
+            <item android:id="@+id/nav_aboutus"
+                android:icon="@drawable/ic_baseline_info_24"
+                android:title="About Us"/>
+            <item android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_login_24"
+                android:title="Logout"/>
+        </menu>
+
+    </item>
+</menu>

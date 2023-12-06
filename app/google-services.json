@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "653924203344",
+    "firebase_url": "https://sprayer-monitoring-default-rtdb.firebaseio.com",
+    "project_id": "sprayer-monitoring",
+    "storage_bucket": "sprayer-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653924203344:android:d8ac5c0432acc92a2a8a55",
+        "android_client_info": {
+          "package_name": "com.example.sprayermonitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBTLiIx7DWLnIj_FOrV0PTarDpR9TRab0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
